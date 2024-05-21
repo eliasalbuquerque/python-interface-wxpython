@@ -6,6 +6,13 @@ desenvolvimento de interfaces desktop para aplicações que necessitam de
 interação visual com o usuário, com foco em automação e integração com outras 
 ferramentas.
 
+- [Estrutura dos Projetos](#estrutura-dos-projetos)
+- [Aprendizados](#aprendizados)
+- [Exemplos de Projetos](#exemplos-de-projetos)
+- [Projetos Futuros](#projetos-futuros)
+- [Recursos de Aprendizado](#recursos-de-aprendizado)
+- [Portfolio](#portfolio)
+
 ## Estrutura dos Projetos
 
 Os projetos são organizados em uma sequência progressiva, com cada um 
