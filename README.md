@@ -49,14 +49,17 @@ importantes sobre:
 
 ## Exemplos de Projetos
 
-![app-v8-checkbox.py](assets/screenshot_checkbox.png)  
+![app_ver.01.py](assets/screenshot_app_ver.01.png)  
+*Visão geral do `app_ver.01.py` com um compilado de todas as funcionalidades desenvolvidas até o momento: Botões, botões bitmap, botão toggle, checkbox, radio button, message box, caixas de dialogo, statick box, paineis verticais top e botton, painel de widgets, static text, botões ok e cancel.*
+
+<!-- ![app-v8-checkbox.py](assets/screenshot_checkbox.png)  
 *Exemplo do projeto `app-v8-checkbox.py` com uma caixa de seleção funcional.*
 
 ![app-v5-buttons_events.py](assets/gif_button_click.gif)
 *Exemplo do projeto `app-v5-buttons_events.py` mostrando a interação com o botão.*
 
 ![Projetos wxPython](assets/projetos_wxpython.png) 
-*Visão geral dos projetos desenvolvidos com wxPython.*
+*Visão geral dos projetos desenvolvidos com wxPython.* -->
 
 ## Projetos Futuros
 
@@ -77,7 +80,11 @@ playlist do YouTube "Wxpython GUI Programming" de Parwiz Forogh. Recomendo
 fortemente esta playlist para quem está começando a aprender sobre 
 desenvolvimento de interfaces desktop com wxPython.
 
-[Wxpython GUI Programming](https://www.youtube.com/playlist?list=PL1FgJUcJJ03vIgXI9BvOBdoc0S3PuzcRb)
+- [Wxpython GUI Programming](https://www.youtube.com/playlist?list=PL1FgJUcJJ03vIgXI9BvOBdoc0S3PuzcRb)
+
+Outra recomendação é a documentação oficial da biblioteca.
+
+- [wxPython API Documentation](https://wxpython.org/Phoenix/docs/html/index.html)
 
 ## Portfolio
 
