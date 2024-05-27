@@ -33,11 +33,11 @@ class MyPanel(wx.Panel):
         state = event.GetEventObject().GetValue()
 
         if state == True:
-            self.label.SetLabelText('Off')
-            event.GetEventObject().SetLabel('Click to on')
-        else:
             self.label.SetLabelText('On')
             event.GetEventObject().SetLabel('Click to off')
+        else:
+            self.label.SetLabelText('Off')
+            event.GetEventObject().SetLabel('Click to on')
 
 
 

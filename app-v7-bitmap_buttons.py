@@ -24,7 +24,7 @@ class MyPanel(wx.Panel):
 
         # Créditos da imagem: <a href="https://www.flaticon.com/free-icons/copy" title="copy icons">Copy icons created by Catalin Fertu - Flaticon</a>
         imageFile1 = 'assets/copy.png'
-        image1 = wx.Image(imageFile1, wx.BITMAP_TYPE_ANY).Rescale(32, 32).ConvertToBitmap()
+        image1 = wx.Image(imageFile1, wx.BITMAP_TYPE_ANY).Rescale(20, 20).ConvertToBitmap()
         self.button1 = wx.BitmapButton(
             self,
             id=1,
@@ -37,7 +37,7 @@ class MyPanel(wx.Panel):
 
         # Créditos da imagem: <a href="https://www.flaticon.com/free-icons/save" title="save icons">Save icons created by Yogi Aprelliyanto - Flaticon</a>
         imageFile2 = 'assets/save.png'
-        image2 = wx.Image(imageFile2, wx.BITMAP_TYPE_ANY).Rescale(32, 32).ConvertToBitmap()
+        image2 = wx.Image(imageFile2, wx.BITMAP_TYPE_ANY).Rescale(25, 25).ConvertToBitmap()
         self.button2 = wx.BitmapButton(
             self,
             # id=-1,
