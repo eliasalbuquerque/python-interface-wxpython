@@ -70,10 +70,10 @@ class MyForm(wx.Frame):
  
         # Add the 3-item sizer to the gridsizer and
         # Right align the labels and icons
-        gridSizer.Add(inputOneSizer, 0, wx.ALIGN_RIGHT)
+        gridSizer.Add(inputOneSizer, 0, wx.CENTRE)
         # Set the TextCtrl to expand on resize
         gridSizer.Add(inputTxtOne, 0, wx.EXPAND)
-        gridSizer.Add(inputTwoSizer, 0, wx.ALIGN_RIGHT)
+        gridSizer.Add(inputTwoSizer, 0, wx.CENTRE)
         gridSizer.Add(inputTxtTwo, 0, wx.EXPAND)
         gridSizer.Add(inputThreeSizer, 0, wx.ALIGN_RIGHT)
         gridSizer.Add(inputTxtThree, 0, wx.EXPAND)
